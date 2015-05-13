@@ -1,0 +1,1025 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"re",
+				"results"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"lin",
+				"lines_nitrofural"
+			],
+			[
+				"df",
+				"df1"
+			],
+			[
+				"li",
+				"lines_vrs4"
+			],
+			[
+				"lines_",
+				"lines_vrs4"
+			],
+			[
+				"ax",
+				"ax1"
+			],
+			[
+				"line",
+				"lines_bad"
+			],
+			[
+				"зад",
+				"задержка"
+			],
+			[
+				"sin",
+				"sinplot"
+			],
+			[
+				"x_",
+				"x_thor"
+			],
+			[
+				"x",
+				"x_thor"
+			],
+			[
+				"tit",
+				"titleLink"
+			],
+			[
+				"a",
+				"authors"
+			],
+			[
+				"pi",
+				"pictureURL"
+			],
+			[
+				"do",
+				"dom_tr_module_all"
+			],
+			[
+				"trdo",
+				"dom_tr_module_main1"
+			],
+			[
+				"dom_tr_",
+				"dom_tr_module2"
+			],
+			[
+				"massMark_btn_",
+				"massMark_btn_1mod"
+			],
+			[
+				"modu_al",
+				"dom_tr_module_all"
+			],
+			[
+				"dom",
+				"dom_tr_module_all"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"if",
+				"ife	if … else"
+			],
+			[
+				"tr",
+				"dom_tr_module1"
+			],
+			[
+				"c",
+				"children"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"cl",
+				"class"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"su",
+				"succes_oneq"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"arti",
+				"articles"
+			],
+			[
+				"sco",
+				"ScholarArticle"
+			],
+			[
+				"try",
+				"try	Try/Except"
+			],
+			[
+				"tan_",
+				"tan_tab"
+			],
+			[
+				"gp",
+				"GPIO_1"
+			],
+			[
+				"clo",
+				"CLOCK_50"
+			],
+			[
+				"y",
+				"y_t"
+			],
+			[
+				"dis",
+				"x_disp"
+			],
+			[
+				"ta",
+				"tan_tab"
+			],
+			[
+				"i",
+				"if	If Condition"
+			],
+			[
+				"alw",
+				"alwaysc	always *"
+			],
+			[
+				"le",
+				"LED"
+			],
+			[
+				"gpio",
+				"GPIO_0"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 6814,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "Контакты (телефон)\nСтатический\nСтатьи\nСписок животных\nУслуги\nПрайс ?\n\nЧто зеленинькое\n\nПродвижение yandex, google\n\nНазвание:\n	Вызовная ветеринарная служба\n\n\nСписок животных\n06.05.15	\nСобаки Кошки Грызуны (кролики, шиншиллы, морские свинки, хомяки) Рептилии (черепахи, хамелеоны, змеи и другие) Экзотические животные (крупные черепахи, обезьяны, скунсы, носухи и другие) Птицы\nУслуги\nТерапия Хирургия Акушерство Гинекология Урология Стоматология Офтальмология\nПрайс\nНасчет прайса мне нужно поговорить с Рубеном\n\nветеринар по собакам\nветклиника\nветклиника спб\nветеринарная клиника\nветлечебница\nветеринар круглосуточно\nветеринар\n\n\n\n",
+			"settings":
+			{
+				"buffer_size": 629,
+				"line_ending": "Windows",
+				"name": "Контакты (телефон)"
+			}
+		},
+		{
+			"file": "css/style.css",
+			"settings":
+			{
+				"buffer_size": 1055,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/python2.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 340.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"vi pdf",
+				"LaTeXTools: View PDF"
+			],
+			[
+				"vie p",
+				"LaTeXTools: View PDF"
+			],
+			[
+				"ju",
+				"LaTeXTools: Jump to PDF"
+			],
+			[
+				"late",
+				"LaTeXTools: View PDF"
+			],
+			[
+				"latereco",
+				"LaTeXTools: Reconfigure and migrate settings"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"J",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"inse",
+				"Insert Nums"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"syn j",
+				"Set Syntax: JSON"
+			],
+			[
+				"mat",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"math",
+				"Set Syntax: TeX Math"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"fsm",
+				"Verilog: Insert FSM template"
+			],
+			[
+				"inset",
+				"Verilog: Insert FSM template"
+			],
+			[
+				"verilo",
+				"Verilog: Show signal/variable type"
+			],
+			[
+				"ver",
+				"Set Syntax: SystemVerilog"
+			],
+			[
+				"veri",
+				"Verilog: Alignment"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"syn ver",
+				"Set Syntax: SystemVerilog"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/projects/maria",
+		"/C/projects/maria/css",
+		"/C/projects/maria/img",
+		"/C/projects/maria/js"
+	],
+	"file_history":
+	[
+		"/C/projects/maria/css/bootstrap.css",
+		"/C/projects/papers/ieeeRangefinder/diff.tex",
+		"/C/projects/scopus_sci/scopus_oeps.py",
+		"/C/projects/scopus_sci/scopus.py",
+		"/C/projects/papers/ieeeRangefinder/old/paper/main_diff.tex",
+		"/C/projects/papers/ieeeRangefinder/main2.tex",
+		"/C/projects/maria/css/bootstrap.min.css",
+		"/C/projects/papers/ieeeRangefinder/diff.bbl",
+		"/C/projects/papers/ieeeRangefinder/old/paper/main.tex",
+		"/C/projects/papers/ieeeRangefinder/pdfdiff.py",
+		"/C/Users/oleg/Downloads/Chertov.txt",
+		"/C/projects/papers/ieeeRangefinder/code/spot_positions.py",
+		"/C/projects/papers/ieeeRangefinder/introduction.tex",
+		"/C/Users/oleg/Downloads/citations (1).bib",
+		"/C/Users/oleg/Downloads/citations (2).bib",
+		"/C/projects/papers/ieeeRangefinder/alignment_process_and_error_estimation.tex",
+		"/C/projects/papers/bib/science.bib",
+		"/C/projects/papers/ieeeRangefinder/experiments_and_results.tex",
+		"/C/projects/papers/ieeeRangefinder/main.bbl",
+		"/C/projects/papers/ieeeRangefinder/main.aux",
+		"/C/projects/papers/ieeeRangefinder/IEEERangefinder.sublime-project",
+		"/C/projects/papers/ieeeRangefinder/experimental_setup.tex",
+		"/C/projects/papers/ieeeRangefinder/includes.tex",
+		"/C/projects/papers/ieeeRangefinder/calibration.tex",
+		"/C/projects/papers/ieeeRangefinder/code/ABSORB_spectrum.png",
+		"/C/projects/papers/papers/milandr/code/resistor/main.c",
+		"/C/projects/MILANDR/Milandr/code/ADC/main.c",
+		"/C/projects/MILANDR/Milandr/code/LED/main.c",
+		"/C/projects/papers/ieeeRangefinder/code/thorlabs.txt",
+		"/C/projects/papers/ieeeRangefinder/code/abs_spectrum.py",
+		"/C/Users/oleg/Downloads/119-26-6-IR.jdx",
+		"/C/projects/papers/ieeeRangefinder/code/goiLike.txt",
+		"/C/projects/papers/ieeeRangefinder/code/furacil.txt",
+		"/C/projects/papers/ieeeRangefinder/parts/experimental_setup.tex",
+		"/C/projects/papers/ieeeRangefinder/parts/alignment_process_and_error_estimation.tex",
+		"/C/projects/papers/ieeeRangefinder/parts/experiments_and_results.tex",
+		"/C/projects/papers/ieeeRangefinder/parts/conclusion.tex",
+		"/C/projects/papers/ieeeRangefinder/parts/introduction.tex",
+		"/C/Users/oleg/AppData/Local/Temp/Rar$DRa0.088/IEEEphot_sample.tex",
+		"/C/projects/papers/ieeeRangefinder/author.txt",
+		"/C/Users/oleg/Downloads/US3907435.bibtex",
+		"/C/projects/papers/ieeeRangefinder/IEEEtran.cls",
+		"/C/Users/oleg/Downloads/arc-units.tex",
+		"/C/projects/papers/ieeeRullerdesign/ieeeRuller.sublime-project",
+		"/C/projects/papers/ieeeRangefinder/main.log",
+		"/C/Users/oleg/Dropbox/projects/rt-70/main.vi.ini",
+		"/C/Users/oleg/Downloads/L-Office-25-3000-32-Д-OS.ies",
+		"/C/projects/papers/ieeeRullerdesign/bare_jrnl.tex",
+		"/C/projects/papers/ieeeRullerdesign/IEEEtran.cls",
+		"/C/Users/oleg/Downloads/nphys1958.ris",
+		"/C/projects/papers/ieeeRullerdesign/rullerIeee.tex",
+		"/C/projects/papers/ieeeRullerdesign/bare_jrnl.pdf",
+		"/C/projects/papers/ieeeRullerdesign/src_spie/pic1_grid10.png",
+		"/C/projects/papers/ieeeRullerdesign/IEEEtran_HOWTO.pdf",
+		"/C/projects/papers/ieeeRullerdesign/includes.tex",
+		"/C/Users/oleg/Downloads/science.bib",
+		"/C/Users/oleg/Downloads/science (2).bib",
+		"/C/Users/oleg/Downloads/science (1).bib",
+		"/C/projects/papers/ieeeRullerdesign/bare_jrnl.bbl",
+		"/C/projects/papers/ieeeRullerdesign/README",
+		"/C/projects/tutor/programming/Programming/tex/main.tex",
+		"/C/Users/oleg/Downloads/dissertation.tex",
+		"/C/Users/oleg/Downloads/packages.tex",
+		"/C/projects/tutor/programming/Programming/tasks/tool.py",
+		"/C/projects/tutor/programming/Programming/tasks/DiplomProject-Title.tex",
+		"/C/projects/tutor/programming/Programming/tasks/test.tex",
+		"/C/projects/tutor/programming/Programming/tex/G7-32_AnnotationNIRreport_example.tex",
+		"/C/Users/oleg/AppData/Roaming/MiKTeX/2.9/tex/latex/babel-russian/russianb.ldf",
+		"/C/projects/tutor/programming/Programming/tex/G7-32_example.tex",
+		"/C/projects/tutor/programming/Programming/tex/G7-32.sty",
+		"/C/projects/tutor/programming/Programming/tex/G7-32_NIRreport_example.tex",
+		"/C/Users/oleg/AppData/Roaming/Sublime Text 3/Packages/User/LaTeXTools.sublime-settings",
+		"/C/projects/tutor/programming/tex/README",
+		"/C/projects/tutor/programming/tex/G7-32_AnnotationNIRreport_example.tex",
+		"/C/Users/oleg/AppData/Local/Temp/Rar$DRa0.243/README",
+		"/C/Program Files (x86)/MiKTeX 2.9/tex/latex/xltxtra/xltxtra.sty",
+		"/C/Program Files (x86)/MiKTeX 2.9/tex/latex/fontspec/fontspec.sty",
+		"/C/Users/oleg/Downloads/small2e.tex",
+		"/C/projects/tutor/programming/Programming/tasks/answer.txt",
+		"/C/projects/tutor/Программирование/Programming/tasks/tool.py",
+		"/C/Users/oleg/Documents/GitHub/scholar/scholarTools.py",
+		"/C/Users/oleg/Documents/GitHub/scholar/scholar_get_h_index.py",
+		"/C/Users/oleg/AppData/Roaming/Sublime Text 3/Packages/User/python2.sublime-build",
+		"/C/Python27/lib/socket.py",
+		"/C/Python27/lib/httplib.py",
+		"/C/Users/oleg/AppData/Local/Temp/Rar$DRa0.131/GoogleScholar-0.2/scholar/scholar.py",
+		"/C/Users/oleg/Documents/GitHub/scholar/scholar_utils.py",
+		"/C/Users/oleg/Documents/GitHub/scholar/scholar.py",
+		"/C/Users/oleg/Documents/GitHub/scholar/GoogleScholar-0.2/setup.py",
+		"/C/Users/oleg/Downloads/citations.bib",
+		"/C/Users/oleg/Dropbox/projects/chrome/de_ext/set_marks.js",
+		"/C/Users/oleg/Dropbox/projects/chrome/de_ext/manifest.json",
+		"/C/Users/oleg/Dropbox/projects/chrome/de_ext/popup.html",
+		"/C/Users/oleg/Dropbox/projects/chrome/de_ext/popup_css.css",
+		"/C/Users/oleg/Dropbox/projects/chrome/de_ext.crx",
+		"/C/Users/oleg/Dropbox/projects/chrome/de_ext.pem",
+		"/C/Users/oleg/Downloads/LinesThroughPointsInThePoincareDisk-author.nb",
+		"/C/Users/oleg/Dropbox/projects/chrome/de_ext/content.js",
+		"/C/projects/avangard/trunk/work/software/FPGA/Plata_connection_2_0/laba_example/V/IMG_PROCESS/img_proc.v",
+		"/C/Users/oleg/Dropbox/projects/chrome/de_ext/popup.js",
+		"/C/Users/oleg/Downloads/template_style_dlc2d.css",
+		"/C/Users/oleg/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Windows/Fonts/NI7SEG.TTF",
+		"/C/projects/polarization/data/Ir_r.txt",
+		"/C/projects/polarization/data/P_b.txt",
+		"/C/projects/polarization/data/P_g.txt",
+		"/C/projects/polarization/data/P_r.txt",
+		"/C/projects/polarization/data/S0_b.txt",
+		"/C/projects/polarization/data/S0_g.txt",
+		"/C/projects/polarization/data/S0_r.txt",
+		"/C/projects/polarization/data/S1_b.txt",
+		"/C/projects/polarization/data/S1_g.txt",
+		"/C/projects/polarization/data/S2_b.txt",
+		"/C/projects/polarization/data/S1_r.txt",
+		"/C/projects/polarization/data/Ir_b.txt",
+		"/C/projects/polarization/data/Ir_g.txt",
+		"/C/projects/polarization/data/Il_r.txt",
+		"/C/projects/polarization/data/Il_g.txt",
+		"/C/projects/polarization/data/Il_b.txt",
+		"/C/projects/polarization/data/I90_r.txt",
+		"/C/projects/polarization/data/I90_g.txt",
+		"/C/projects/polarization/data/I90_b.txt",
+		"/C/projects/polarization/data/I-45_r.txt",
+		"/C/projects/polarization/data/I45_r.txt",
+		"/C/projects/polarization/data/I-45_g.txt",
+		"/C/projects/polarization/data/I45_g.txt",
+		"/C/projects/polarization/data/I-45_b.txt",
+		"/C/projects/polarization/data/I45_b.txt"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+			"C:\\projects\\papers\\ieeeRangefinder,-*.py,-*.eps",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<h2",
+			"h2",
+			"class=\"col-md",
+			"class=\"col-md-4",
+			"<img src=\"./img",
+			"width=\"30%\"",
+			"<p><a class=\"btn btn-default\" href=\"#\" role=\"button\">View details »</a></p>",
+			" ",
+			"danger",
+			"nav",
+			"10px",
+			" ",
+			"bg-warning",
+			"4",
+			"col-md-4",
+			"span4",
+			" ",
+			"inve",
+			"hom",
+			".navbar",
+			"#navbar",
+			"navbar",
+			"#777777",
+			"header",
+			"../../dist/",
+			".js",
+			".css",
+			"css",
+			"DIFadd",
+			"underline",
+			"\\item",
+			"DIFadd",
+			"DIFdel",
+			"{",
+			"arg",
+			"VRS4",
+			"tp_err_sd",
+			"obs_err_sd",
+			"tp_err_sd",
+			"['lines_",
+			"'lines_",
+			"val",
+			"time",
+			"type",
+			"df.append(df1)",
+			"lines_ICT388",
+			"png",
+			"lines_vrs4",
+			"3",
+			"lines_nitrofural",
+			"lines_good",
+			"5",
+			"0.5",
+			"lines_bad",
+			"beam}",
+			"{spot}",
+			"f_{parabola}",
+			"apro",
+			"nitro",
+			"ic",
+			"\\\\",
+			"eq",
+			"lines_bad",
+			"8",
+			"lines_bad",
+			"lines_good",
+			"lines_bad",
+			"lines_good",
+			"column",
+			"lines",
+			"color",
+			"caption",
+			"..",
+			"sADC",
+			"..",
+			"laser_spots",
+			"laser_spots_first_case",
+			"nitrofural",
+			"[width=1.1in]",
+			"thorlabs",
+			"4",
+			"width",
+			"\\hfil",
+			"width",
+			"png",
+			"200",
+			",",
+			"thorlabs",
+			"thor",
+			",",
+			"lw=2",
+			",",
+			"x",
+			"thorlabs",
+			"jcamp_dict",
+			",",
+			" ",
+			"\\sec",
+			"inc",
+			"2009",
+			"JOURNAL OF",
+			"microns",
+			" ",
+			"visualis",
+			"visualiz",
+			"laser1975light",
+			"zhang2011lens",
+			"[0-9],[0-9]",
+			",",
+			"[0-9],[0-9]",
+			"[0-9]*,[0-9]*",
+			"*,*",
+			"A3",
+			"A2",
+			"A1",
+			"distance",
+			"distance ",
+			"distance meter",
+			" ",
+			"\\inclu",
+			"inclu",
+			"[2]",
+			"[1]",
+			"font",
+			"\\si{\\ang",
+			"ang",
+			"axis",
+			"fig"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"VRC4",
+			"b}",
+			"{s}",
+			"f_{p}",
+			".",
+			"rangefinder",
+			","
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6814,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6180,
+								6180
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2833.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 629,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								383,
+								458
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_name": "Контакты (телефон)",
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 60.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1055,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								488,
+								487
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 180.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 230.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "maria.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 255.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
