@@ -1,0 +1,22 @@
+.narrow{
+	max-width: 900px;
+}
+.text-justify {
+  text-align: justify;
+}
+ul.nav a:hover { 
+	color: #fff !important;
+	background-color: #228b22;
+}
+ul.nav li.active{
+	color: #fff !important;
+	background-color: #efefef;	
+}
+.nav-sidebar{
+	font-size: 17px;
+}
+
+body {
+	background-color: whitesmoke;
+}
+
